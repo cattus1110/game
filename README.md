@@ -1,4 +1,4 @@
-# game
+# Games
 * Aurthor: wei-long1110
 
 Build with VB
