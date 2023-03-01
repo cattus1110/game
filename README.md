@@ -1,9 +1,9 @@
 # game
-##Aurthor: wei-long1110
+## Aurthor: wei-long1110
 Build with VB
 此使用VB製作
 
-##Files & Directories 檔案結構
+## Files & Directories 檔案結構
 
 - ├─下午遊樂
 - │      下午遊樂.exe
@@ -32,9 +32,9 @@ Build with VB
 - │          loading4.png
 - │
 - └─貪食蛇
--         使用說明.txt
--          貪吃蛇.exe
--         貪吃蛇.pdb
--         貪吃蛇.vshost.exe
--         貪吃蛇.vshost.exe.manifest
--         貪吃蛇.xml
+         - 使用說明.txt
+         - 貪吃蛇.exe
+         - 貪吃蛇.pdb
+         - 貪吃蛇.vshost.exe
+         - 貪吃蛇.vshost.exe.manifest
+         - 貪吃蛇.xml
