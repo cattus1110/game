@@ -1,9 +1,9 @@
 # Games
 * Aurthor: wei-long1110
 
-Build with VB
+Build with Visual Basic
 <br>
-此使用VB製作
+此使用Visual Basic製作
 
 ## Files & Directories 檔案結構
 ```
